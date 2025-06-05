@@ -4,8 +4,8 @@ Aulas e os exercicios de java no senai,Java classes and exercises at Senai
 # Aula 1 nao existe.
 # Class 1 does not exist.
 
-## **Oque teve na aula?**
-## **What happened in class?**
+# **Oque teve na aula?**
+# **What happened in class?**
 
 Aula 2(
 
